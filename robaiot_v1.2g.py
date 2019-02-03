@@ -40,11 +40,7 @@ def main():
 
 data=main()
 print(data['field5'])
-#print(type(data['field5']))
-#a='1'
-#b=2
-#print(type(a))
-#print(type(b))
+
 while 1:
     #if __name__ == '__main__':
     
